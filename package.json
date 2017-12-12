@@ -1,0 +1,17 @@
+{
+  "name": "transform_csv",
+  "version": "1.0.0",
+  "description": "Truss code challenge",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nicole peoples",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^2.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "utf8": "^3.0.0"
+  }
+}
